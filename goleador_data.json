@@ -3,7 +3,10 @@
         "Python Junior",
         "Web Design",
         "Nextjs",
-        "Java"
+        "Java",
+        "Ruby",
+        "PHP",
+        "Javascript"
     ],
     "participants": [
         {
@@ -20,6 +23,21 @@
             "first_name": "Antonio",
             "last_name": "Nenna",
             "course": "Nextjs"
+        },
+        {
+            "first_name": "Sam",
+            "last_name": "Tomm",
+            "course": "Nextjs"
+        },
+        {
+            "first_name": "Kristel",
+            "last_name": "Steel",
+            "course": "PHP"
+        },
+        {
+            "first_name": "Lucas",
+            "last_name": "Jone",
+            "course": "Java"
         }
     ],
     "awards": [
