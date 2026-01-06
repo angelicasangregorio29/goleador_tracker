@@ -1,0 +1,18 @@
+{
+  "courses": ["Python Junior", "Web Design"],
+  "participants": [
+    {
+      "first_name": "Anna",
+      "last_name": "Rossi",
+      "course": "Python Junior"
+    }
+  ],
+  "awards": [
+    {
+      "participant_full_name": "Anna Rossi",
+      "course": "Python Junior",
+      "goleador": 3,
+      "timestamp": "2026-01-06 10:30:45"
+    }
+  ]
+}
